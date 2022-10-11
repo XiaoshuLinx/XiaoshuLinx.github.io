@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * B.S. Guangzhou Medical University, Guangzhou (China)， Sep 2014 – Aug 2018
-       Major in Applied Psychology, Health Management
-       Thesis topic: ‘A survey of college students' belief in a just world scale (BJW)’
+     *  Major in Applied Psychology, Health Management
+     *  Thesis topic: ‘A survey of college students' belief in a just world scale (BJW)’
 * M.S. Liaoning Normal University, Dalian (China), Sep 2019 – July 2022
-       Major in Basic Psychology, Center of Brain and Cognitive Neuroscience
-       Thesis topic: ‘Contralateral delay activity (CDA) indicates storage of visual-spatial representations rather than attentional tracking in Multiple objects tracking (MOT).’
+     *  Major in Basic Psychology, Center of Brain and Cognitive Neuroscience
+     *  Thesis topic: ‘Contralateral delay activity (CDA) indicates storage of visual-spatial representations rather than attentional tracking in Multiple objects tracking (MOT).’
 * Ph.D University of Jyväskylä,Jyväskylä (Finland), Sep 2022 – Aug 2026(expected)
-       Major in cognitive neuroscience, department of phycology
+     *  Major in cognitive neuroscience, department of phycology
 
 Research experience
 ======
@@ -58,19 +58,19 @@ Publications
 Communication and presentation skills
 ======
 * Three years of experimental experiences (EEG)
- * Conducted 5 EEG experiments;
- * instructed and prepared more than 100 participants;
+  * Conducted 5 EEG experiments;
+  * instructed and prepared more than 100 participants;
 * Professional Level 3 psychological consultant qualification
   (Issued by China Ministry of Labor and Social Security)
 * Four years of debate team experience
- * Won the runner-up of the 2015 Nansha Wetland Cup.
-  (Provincial competition involved 32 schools, Guangdong Province, China)
- * Won the Champion of school debate competition in 2014 and 2015.
+  * Won the runner-up of the 2015 Nansha Wetland Cup.
+    (Provincial competition involved 32 schools, Guangdong Province, China)
+  * Won the Champion of school debate competition in 2014 and 2015.
 * Professional Level 3 psychological consultant qualification
   (Issued by China Ministry of Labor and Social Security)
 * tutor for children, teenagers, and children with ADHD, Guangzhou (China)
-  * One-to-one customized after-school tutoring in Chinese, Math, English, or (and) Physic for more than 20 children or teenagers; 
-  * Helping attention training and Cognitive Behavioral Therapy for children with ADHD in group therapy.
+   * One-to-one customized after-school tutoring in Chinese, Math, English, or (and) Physic for more than 20 children or teenagers; 
+   * Helping attention training and Cognitive Behavioral Therapy for children with ADHD in group therapy.
 
   
 
