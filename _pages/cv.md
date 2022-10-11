@@ -60,8 +60,6 @@ Communication and presentation skills
 * Three years of experimental experiences (EEG)
   * Conducted 5 EEG experiments;
   * instructed and prepared more than 100 participants;
-* Professional Level 3 psychological consultant qualification
-  (Issued by China Ministry of Labor and Social Security)
 * Four years of debate team experience
   * Won the runner-up of the 2015 Nansha Wetland Cup.
     (Provincial competition involved 32 schools, Guangdong Province, China)
