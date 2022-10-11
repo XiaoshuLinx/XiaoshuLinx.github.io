@@ -11,49 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Guangzhou Medical University, Guangzhou (China)， Sep 2014 – Aug 2018
+       Major in Applied Psychology, Health Management
+       Thesis topic: ‘A survey of college students' belief in a just world scale (BJW)’
+* M.S. Liaoning Normal University, Dalian (China), Sep 2019 – July 2022
+       Major in Basic Psychology, Center of Brain and Cognitive Neuroscience
+       Thesis topic: ‘Contralateral delay activity (CDA) indicates storage of visual-spatial representations rather than attentional tracking in Multiple objects tracking (MOT).’
+* Ph.D University of Jyväskylä,Jyväskylä (Finland), Sep 2022 – Aug 2026(expected)
+       Major in cognitive neuroscience, department of phycology
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2022-to date: Mechanisms and development of internal attention in human brain
+  * Purpose： to achieve a deeper understanding of the underlying brain mechanisms of the two retro cues: retro-object-cue and retro-dimension-cue.
+  * Duties included: experimental design; ,MEG and behavioral data acquisition and data analysis.
+  * Supervisor: Associate Professor Tiina Parviainen
+  
+* Sep 2020-Dec 2021: Working memory employed in Multiple Object Tracking (MOT)
+  * Purpose： Proving that Storage of Visual-Spatial Representations was employed and can be separated in multiple objective tracking (MOT) tasks.
+  * Duties included:  Partly experimental design; Whole process of experimental programming (PsychoPy 3), EEG (BP), and behavioral data acquisition and data analysis (Analyzer & EEGLAB & Letswave 7).
+  * Supervisor: Professor Qiang Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2019-Sep 2020: Behavioral Oscillations in working memory 
+  * Purpose： Testing if there are Behavioral oscillations in working memory and the specific Oscillate band.
+  * Duties included:  Partly experimental programming (PsychoPy 3); Whole process of Data acquisition; Preliminary data analysis (MATLAB).
+  * Supervisor: Professor Qiang Liu
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Psychopy; MATLAB
+* Data analysis: Microsoft Office; SPSS; JASP
+* EEG
+  * aqusition:BP;ANT
+  * data analysis: Brain Vision Analyzer;EEGLAB;Letswave 
+* fMRI 
+  * scan: Daily quality control scanning, the configuration of sequences, guiding subjects, experiment scanning (scanned 10+ experiments, 80+ times, and 400+ sequences)
+  * analysis: SPM12
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+ [ <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  Lin, X., Ye, C., Parviainen, T., Liu, Q. (2022). Contralateral delay activity tracks information load in visual working memory: Evidence from the multiple object tracking task. Journal of Cognitive Neuroscience. Under Review.
+ (preprint: https://doi.org/10.31234/osf.io/a8b4h)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
