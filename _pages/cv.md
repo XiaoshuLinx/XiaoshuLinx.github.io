@@ -51,17 +51,26 @@ Skills
 
 Publications
 ======
- [ <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  Lin, X., Ye, C., Parviainen, T., Liu, Q. (2022). Contralateral delay activity tracks information load in visual working memory: Evidence from the multiple object tracking task. Journal of Cognitive Neuroscience. Under Review.
+ Lin, X., Ye, C., Parviainen, T., Liu, Q. (2022). Contralateral delay activity tracks information load in visual working memory: Evidence from the multiple object tracking task. Journal of Cognitive Neuroscience. Under Review.
  (preprint: https://doi.org/10.31234/osf.io/a8b4h)
   
 
-Teaching
+Communication and presentation skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Three years of experimental experiences (EEG)
+ * Conducted 5 EEG experiments;
+ * instructed and prepared more than 100 participants;
+* Professional Level 3 psychological consultant qualification
+  (Issued by China Ministry of Labor and Social Security)
+* Four years of debate team experience
+ * Won the runner-up of the 2015 Nansha Wetland Cup.
+  (Provincial competition involved 32 schools, Guangdong Province, China)
+ * Won the Champion of school debate competition in 2014 and 2015.
+* Professional Level 3 psychological consultant qualification
+  (Issued by China Ministry of Labor and Social Security)
+* tutor for children, teenagers, and children with ADHD, Guangzhou (China)
+  * One-to-one customized after-school tutoring in Chinese, Math, English, or (and) Physic for more than 20 children or teenagers; 
+  * Helping attention training and Cognitive Behavioral Therapy for children with ADHD in group therapy.
+
   
 
