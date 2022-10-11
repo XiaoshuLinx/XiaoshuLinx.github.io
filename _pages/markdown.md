@@ -1,202 +1,82 @@
 ---
 permalink: /markdown/
-title: "markdown"
+title: "cv"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+{% include base_path %}
 
-## Tips and hints
+Education
+======
+* B.S. Guangzhou Medical University, Guangzhou (China)， Sep 2014 – Aug 2018
+     *  Major in Applied Psychology, Health Management
+     *  Thesis topic: ‘A survey of college students' belief in a just world scale (BJW)’
+* M.S. Liaoning Normal University, Dalian (China), Sep 2019 – July 2022
+     *  Major in Basic Psychology, Center of Brain and Cognitive Neuroscience
+     *  Thesis topic: ‘Contralateral delay activity (CDA) indicates storage of visual-spatial representations rather than attentional tracking in Multiple objects tracking (MOT).’
+* Ph.D University of Jyväskylä,Jyväskylä (Finland), Sep 2022 – Aug 2026(expected)
+     *  Major in cognitive neuroscience, department of phycology
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+Research experience
+======
+* Sep 2022-to date: Mechanisms and development of internal attention in human brain
+  * Purpose： to achieve a deeper understanding of the underlying brain mechanisms of the two retro cues: retro-object-cue and retro-dimension-cue.
+  * Duties included: experimental design; ,MEG and behavioral data acquisition and data analysis.
+  * Supervisor: Associate Professor Tiina Parviainen
+  
+* Sep 2020-Dec 2021: Working memory employed in Multiple Object Tracking (MOT)
+  * Purpose： Proving that Storage of Visual-Spatial Representations was employed and can be separated in multiple objective tracking (MOT) tasks.
+  * Duties included:  Partly experimental design; Whole process of experimental programming (PsychoPy 3), EEG (BP), and behavioral data acquisition and data analysis (Analyzer & EEGLAB & Letswave 7).
+  * Supervisor: Professor Qiang Liu
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+* Nov 2019-Sep 2020: Behavioral Oscillations in working memory 
+  * Purpose： Testing if there are Behavioral oscillations in working memory and the specific Oscillate band.
+  * Duties included:  Partly experimental programming (PsychoPy 3); Whole process of Data acquisition; Preliminary data analysis (MATLAB).
+  * Supervisor: Professor Qiang Liu
 
-## Markdown guide
+  
+Skills
+======
+* Programming: Psychopy; MATLAB
+* Data analysis: Microsoft Office; SPSS; JASP
+* EEG
+  * aqusition:BP;ANT
+  * data analysis: Brain Vision Analyzer;EEGLAB;Letswave 
+* fMRI 
+  * scan: Daily quality control scanning, the configuration of sequences, guiding subjects, experiment scanning (scanned 10+ experiments, 80+ times, and 400+ sequences)
+  * analysis: SPM12
 
-### Header three
+Publications
+======
+ Lin, X., Ye, C., Parviainen, T., Liu, Q. (2022). Contralateral delay activity tracks information load in visual working memory: Evidence from the multiple object tracking task. Journal of Cognitive Neuroscience. Under Review.
+ (preprint: https://doi.org/10.31234/osf.io/a8b4h)
+  
 
-#### Header four
+Communication and presentation skills
+======
+* Three years of experimental experiences (EEG)
+  * Conducted 5 EEG experiments;
+  * instructed and prepared more than 100 participants;
+* Four years of debate team experience
+  * Won the runner-up of the 2015 Nansha Wetland Cup.
+    (Provincial competition involved 32 schools, Guangdong Province, China)
+  * Won the Champion of school debate competition in 2014 and 2015.
+* Professional Level 3 psychological consultant qualification
+  (Issued by China Ministry of Labor and Social Security)
+* tutor for children, teenagers, and children with ADHD, Guangzhou (China)
+   * One-to-one customized after-school tutoring in Chinese, Math, English, or (and) Physic for more than 20 children or teenagers; 
+   * Helping attention training and Cognitive Behavioral Therapy for children with ADHD in group therapy.
 
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+  
