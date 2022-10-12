@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Jyvaskyla, Finland"
-title                    : "Xiaoshu Lin / XiaoshuLinx"
+title                    : "Homepage / Xiaoshu Lin"
 title_separator          : "-"
-name                     : &name "Xiaoshu Lin"
+name                     : &name "Xiaoshu Lin/林晓舒"
 description              : &description "personal description"
 url                      : https://xiaoshulinx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaoshu Lin"
   avatar           : "profile.png"
-  bio              : "Stay happy"
+  bio              : "suesxl@163.com"
   location         : "Jyvaskyla, Finland"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "xiaoshu.s.lin@student.jyu.fi"
+  email            : "suesxl@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
