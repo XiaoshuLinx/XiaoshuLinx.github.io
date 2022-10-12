@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaoshu Lin"
+  name             : "Xiaoshu Lin|林晓舒"
   avatar           : "profile.png"
   bio              : "suesxl@163.com"
-  location         : "Jyvaskyla, Finland"
+  location         : "Jyvaskyla，Finland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "suesxl@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
