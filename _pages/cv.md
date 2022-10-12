@@ -71,7 +71,7 @@ Communication and presentation skills
 Conferences
 ======
 * attended The 2019 annual conference of General and Experimental Psychology Committee of Chinese Psychological Society;
-* attended The sixth professional committee on emotional and health psychology;
+* attended The sixth professional committee on emotional and health psychology; 
 
 Honors and awards
 ======
