@@ -9,7 +9,7 @@
 locale                   : "Jyvaskyla, Finland"
 title                    : "Homepage / Xiaoshu Lin"
 title_separator          : "-"
-name                     : &name "Xiaoshu Lin/林晓舒"
+name                     : &name "Xiaoshu Lin"
 description              : &description "personal description"
 url                      : https://xiaoshulinx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
