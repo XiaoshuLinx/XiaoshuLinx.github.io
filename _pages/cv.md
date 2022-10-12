@@ -51,7 +51,7 @@ Skills
 
 Publications
 ======
-* **Lin, X**., Ye, C., Parviainen, T., Liu, Q. (2022). Contralateral delay activity tracks information load in visual working memory: Evidence from the multiple object tracking task.* Journal of Cognitive Neuroscience. Under Review.  [Download PDF here]((http://XiaoshuLinx.github.io/files/Contralateral delay activity tracks information load in visual working memory Evidence from the multiple object tracking task-7.26-final-preprint.pdf)
+* **Lin, X**., Ye, C., Parviainen, T., Liu, Q. (2022). Contralateral delay activity tracks information load in visual working memory: Evidence from the multiple object tracking task.* Journal of Cognitive Neuroscience. Under Review.  [Download PDF here](http://XiaoshuLinx.github.io/files/Contralateral delay activity tracks information load in visual working memory Evidence from the multiple object tracking task-7.26-final-preprint.pdf)
 
 Communication and presentation skills
 ======
@@ -81,5 +81,5 @@ Honors and awards
 * 2021 state stipend at Liaoning Normal University
 * 2022-2026 awarded by China Scholarship Council (CSC)
 
-[Thanks for reading! Download CV here]((http://XiaoshuLinx.github.io/files/CV-Xiaoshu Lin 2022.pdf)
+[Thanks for reading! Download CV here](http://XiaoshuLinx.github.io/files/CV-Xiaoshu Lin 2022.pdf)
 
