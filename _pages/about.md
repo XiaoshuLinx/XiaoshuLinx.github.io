@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,11 +11,11 @@ redirect_from:
 Academia
 ======
 - Doctoral study（Sep 2022 – to date) 
-  [Major in Cognitive Neuroscience, Department of Psychology, University of Jyvaskyla, Jyvaskyla (Finland)](https://www.jyu.fi/edupsy/fi/laitokset/psykologia/en/).      
+  Major in Cognitive Neuroscience, Department of Psychology, [University of Jyvaskyla, Jyvaskyla (Finland)](https://www.jyu.fi/en/).      
 - Master Degree（Sep 2019 –June 2022) 
-  [Center of Brain and Cognitive Neuroscience, Liaoning Normal University, Dalian (China)] (https://brain.lnnu.edu.cn/). 
+  Center of Brain and Cognitive Neuroscience, [Liaoning Normal University, Dalian (China)] (https://www.lnnu.edu.cn/). 
 - Bachelor Degree（Sep 2019 –June 2022) 
-  [Majorin Applied Psychology, Health Management, Guangzhou Medical University, Guangzhou (China)] (https://www.gzhmu.edu.cn/102). 
+  Majorin Applied Psychology, Health Management, [Guangzhou Medical University, Guangzhou (China)] (https://www.gzhmu.edu.cn/102). 
   
 
 Research Interests
