@@ -29,3 +29,4 @@ Research Interests
 Honours and awards
 ======
 - 4 years scholarship awarded by China Scholarship Council (CSC)
+- graduation thesis: The index of Contralateral Delayed Activity(CDA) in the Multiple Object Tracking (MOT) Task  was awarded as the *school outstanding Master thesis of 2022*
