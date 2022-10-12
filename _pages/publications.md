@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **Lin, X**., Ye, C., Parviainen, T., Liu, Q. (2022). Contralateral delay activity tracks information load in visual working memory: Evidence from the multiple object tracking task.* Journal of Cognitive Neuroscience. Under Review.  [Download PDF here](http://XiaoshuLinx.github.io/files/Contralateral delay activity tracks information load in visual working memory Evidence from the multiple object tracking task-7.26-final-preprint.pdf)
