@@ -80,7 +80,7 @@ Honors and awards
 * 2020 third-class scholarship at Liaoning Normal University
 * 2021 state stipend at Liaoning Normal University
 * 2022-2026 awarded by China Scholarship Council (CSC)
-* graduation thesis: The index of Contralateral Delayed Activity(CDA) in the Multiple Object Tracking (MOT) Task  was awarded as the school outstanding Master thesis of 2022
+* graduation thesis: The index of Contralateral Delayed Activity(CDA) in the Multiple Object Tracking (MOT) Task  was awarded as the outstanding Master thesis of Liaoning Province in 2022
 
 [Thanks for reading! Download CV here](http://XiaoshuLinx.github.io/files/CV-Xiaoshu Lin 2022.pdf)
 
