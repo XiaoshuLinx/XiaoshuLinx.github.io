@@ -44,7 +44,7 @@ Research experience
 
   
 * Sep 2020-Dec 2021: Visual Working Memory in Multiple Object Tracking (MOT)
-* Aim： Investigated whether contralateral delay activity (CDA)—a neural marker of visual working memory—emerges during multiple object tracking. Demonstrated that CDA is present when tracking relies on working memory representations, but absent when tracking is supported primarily by attentional mechanisms.
+  * Aim： Investigated whether contralateral delay activity (CDA)—a neural marker of visual working memory—emerges during multiple object tracking. Demonstrated that CDA is present when tracking relies on working memory representations, but absent when tracking is supported primarily by attentional mechanisms.
   * Contributions:
 *-Designed and implemented behavioral and EEG experiments using PsychoPy3.
 *-Collected and analyzed EEG (Brain Products) and behavioral data using Brain Vision Analyzer, EEGLAB. 
