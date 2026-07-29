@@ -64,32 +64,36 @@ Publications
 
 2.	Liu, R., Guo, L., **Lin, X.**, Nie, D., Astikainen, P., & Ye, C. (2024). Dimension-based retro-cue benefit in working memory does not require unfocused dimension removal. Frontiers in psychology, 15, 1433405.
 
-3.	**Lin, X. **, Pultsina, K., Monto, S., Ye, C., Parviainen, T. Flexibility of Internal Attention: Divergent Spatiotemporal Profiles for Feature and Object Cueing (in press on Cerebral Cortex)
+3.	**Lin, X.**, Pultsina, K., Monto, S., Ye, C., Parviainen, T. Flexibility of Internal Attention: Divergent Spatiotemporal Profiles for Feature and Object Cueing (in press on Cerebral Cortex)
 
 
 skills
 ======
-*Python (advanced): MEG/EEG preprocessing, source analysis, machine learning decoding
-*PsychoPy (advanced): Experimental design and stimulus presentation
-*MATLAB (intermediate): Behavioral and EEG analysis
+Python (advanced): MEG/EEG preprocessing, source analysis, machine learning decoding
 
-*-MEG (Elekta Neuromag TRIUX): 2 years of hands-on experience as an experimenter; instructed and prepared 50+ human participants.
-*-EEG (Brain Products / ANT): 2 years of experience; designed and conducted 3 EEG experiments; instructed and prepared 100+ participants.
-*-fMRI (Siemens scanners): Contributed to 10+ experiments, completing 80+ scanning sessions and 400+ MRI sequences.
+PsychoPy (advanced): Experimental design and stimulus presentation
 
-*MNE-Python (advanced): Preprocessing → source localization → statistics → decoding
-*BrainVision Analyzer (advanced)
-*EEGLAB & Letswave (intermediate)
-*SPM12 (basic): fMRI preprocessing and analysis
+MATLAB (intermediate): Behavioral and EEG analysis
 
-*Experimental design, cognitive tasks setup, behavioral data acquisition
+-MEG (Elekta Neuromag TRIUX): 2 years of hands-on experience as an experimenter; instructed and prepared 50+ human participants.
+
+-EEG (Brain Products / ANT): 2 years of experience; designed and conducted 3 EEG experiments; instructed and prepared 100+ participants.
+
+-fMRI (Siemens scanners): Contributed to 10+ experiments, completing 80+ scanning sessions and 400+ MRI sequences.
+
+MNE-Python (advanced): Preprocessing → source localization → statistics → decoding
+BrainVision Analyzer (advanced)
+EEGLAB & Letswave (intermediate)
+SPM12 (basic): fMRI preprocessing and analysis
+
+Experimental design, cognitive tasks setup, behavioral data acquisition
 
 
 Conferences
 ======
-*-Lin, X., et al. Neural mechanisms of internal attention.
+-Lin, X., et al. Neural mechanisms of internal attention.
 International Conference of Cognitive Neuroscience, 2025 (poster).
-*-Lin, X., et al. Flexibility of internal attention.
+-Lin, X., et al. Flexibility of internal attention.
 MEGNORD, 2024–2025 (poster).
 
 
