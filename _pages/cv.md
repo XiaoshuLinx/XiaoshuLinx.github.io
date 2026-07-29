@@ -82,8 +82,11 @@ MATLAB (intermediate): Behavioral and EEG analysis
 -fMRI (Siemens scanners): Contributed to 10+ experiments, completing 80+ scanning sessions and 400+ MRI sequences.
 
 MNE-Python (advanced): Preprocessing → source localization → statistics → decoding
+
 BrainVision Analyzer (advanced)
+
 EEGLAB & Letswave (intermediate)
+
 SPM12 (basic): fMRI preprocessing and analysis
 
 Experimental design, cognitive tasks setup, behavioral data acquisition
@@ -93,18 +96,23 @@ Conferences
 ======
 -Lin, X., et al. Neural mechanisms of internal attention.
 International Conference of Cognitive Neuroscience, 2025 (poster).
+
 -Lin, X., et al. Flexibility of internal attention.
 MEGNORD, 2024–2025 (poster).
 
 
 Honors and awards
 ======
-*-Ellen and Artturi Nyyssönen Foundation, 08.2026-10.2026
-*-China Scholarship Council (CSC) Doctoral Fellowship, 2022–2026
+-Ellen and Artturi Nyyssönen Foundation, 08.2026-10.2026
+
+-China Scholarship Council (CSC) Doctoral Fellowship, 2022–2026
 (€64,800; competitive national scholarship)
-*-Travel Grant, International Conference of Cognitive Neuroscience, 2025
-*-Travel Grant, Nordic MEG Winter School, 2023
-*-Outstanding Master’s Thesis Award, Liaoning Normal University, 2022
+
+-Travel Grant, International Conference of Cognitive Neuroscience, 2025
+
+-Travel Grant, Nordic MEG Winter School, 2023
+
+-Outstanding Master’s Thesis Award, Liaoning Normal University, 2022
 
 Language
 ======
