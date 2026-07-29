@@ -9,9 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Research interests
+======
+My research focuses on the neural mechanisms supporting internal attention and working memory. I am particularly interested in:
+
+-Representational dynamics of feature- and object-based attention
+-Oscillatory and network-level mechanisms underlying internal attention
+-MEG source imaging and multivariate modeling of cognitive representations
+
+
 Education
 ======
-* Ph.D University of Jyväskylä,Jyväskylä (Finland), Sep 2022 – Aug 2026(expected)
+* Ph.D University of Jyväskylä,Jyväskylä (Finland), Sep 2022 – now
      *  Major in cognitive neuroscience, department of phycology
 * M.S. Liaoning Normal University, Dalian (China), Sep 2019 – July 2022
      *  Major in Basic Psychology, Center of Brain and Cognitive Neuroscience
@@ -22,20 +31,28 @@ Education
 
 Research experience
 ======
-* Sep 2022-to date: Mechanisms and development of internal attention in human brain
-  * Purpose： to achieve a deeper understanding of the underlying brain mechanisms of the two retro cues: retro-object-cue and retro-dimension-cue.
-  * Duties included: experimental design; MEG and behavioral data acquisition and data analysis.
-  * Supervisor: Associate Professor Tiina Parviainen
+* Sep 2022-to date: Neural Mechanisms of Internal Attention in the Human Brain
+  * Aim： To investigate the neural mechanisms underlying internal attention directed by different cue formats, including feature cues (color/orientation) and spatial cues (left/right).
+  * Contributions:
+-Designed and implemented cognitive tasks (Raven matrices, digit span, similarity judgment, etc.) and experimental paradigms targeting internal attention and working memory. 
+-Conducted MEG and behavioral data acquisition with human participants. 
+-Performed the full data analysis pipeline, including preprocessing, source-level analysis, and machine learning–based decoding, using Python. 
+-Led manuscript preparation, writing and publication of research findings.
+
   
-* Sep 2020-Dec 2021: Working memory employed in Multiple Object Tracking (MOT)
-  * Purpose： Proving that Storage of Visual-Spatial Representations was employed and can be separated in multiple objective tracking (MOT) tasks.
-  * Duties included:  Partly experimental design; Whole process of experimental programming (PsychoPy 3), EEG (BP), and behavioral data acquisition and data analysis (Analyzer & EEGLAB & Letswave 7).
-  * Supervisor: Professor Qiang Liu
+* Sep 2020-Dec 2021: Visual Working Memory in Multiple Object Tracking (MOT)
+  * Aim： Investigated whether contralateral delay activity (CDA)—a neural marker of visual working memory—emerges during multiple object tracking. Demonstrated that CDA is present when tracking relies on working memory representations, but absent when tracking is supported primarily by attentional mechanisms.
+  * Contributions:
+-Designed and implemented behavioral and EEG experiments using PsychoPy3.
+-Collected and analyzed EEG (Brain Products) and behavioral data using Brain Vision Analyzer, EEGLAB. 
+-Contributed to manuscript preparation and scientific writing.
+
 
 * Nov 2019-Sep 2020: Behavioral Oscillations in working memory 
-  * Purpose： Testing if there are Behavioral oscillations in working memory and the specific Oscillate band.
-  * Duties included:  Partly experimental programming (PsychoPy 3); Whole process of Data acquisition; Preliminary data analysis (MATLAB).
-  * Supervisor: Professor Qiang Liu
+  * Aim： Examined whether behavioral performance in working memory exhibits rhythmic fluctuations and identified their dominant oscillatory frequencies.
+  * Contributions:
+-Developed experimental paradigms using PsychoPy 3 and managed the complete experimental and data acquisition pipeline.
+-Conducted initial data preprocessing and statistical analyses in MATLAB.
 
   
 Skills
@@ -51,36 +68,52 @@ Skills
 
 Publications
 ======
-* **Lin, X**., Ye, C., Parviainen, T., Liu, Q. (2022). Contralateral delay activity tracks information load in visual working memory: Evidence from the multiple object tracking task.* Journal of Cognitive Neuroscience. Under Review.  [Download PDF here](http://XiaoshuLinx.github.io/files/Contralateral delay activity tracks information load in visual working memory Evidence from the multiple object tracking task-7.26-final-preprint.pdf)
+1.	Wang, Y.*,**Lin, X.** *, Ye, C. *, Parviainen, T., & Liu, Q. (2025). Contralateral delay activity tracks storage load in visual working memory: Evidence from the multiple objects tracking task. Journal of Cognitive Neuroscience. 1-10.
 
-Communication and presentation skills
+2.	Liu, R., Guo, L., **Lin, X.**, Nie, D., Astikainen, P., & Ye, C. (2024). Dimension-based retro-cue benefit in working memory does not require unfocused dimension removal. Frontiers in psychology, 15, 1433405.
+
+3.	**Lin, X. **, Pultsina, K., Monto, S., Ye, C., Parviainen, T. Flexibility of Internal Attention: Divergent Spatiotemporal Profiles for Feature and Object Cueing (in press on Cerebral Cortex)
+
+
+skills
 ======
-* Three years of experimental experiences (EEG)
-  * Conducted 5 EEG experiments;
-  * instructed and prepared more than 100 participants;
-* Four years of debate team experience
-  * Won the runner-up of the 2015 Nansha Wetland Cup.
-    (Provincial competition involved 32 schools, Guangdong Province, China)
-  * Won the Champion of school debate competition in 2014 and 2015.
-* Professional Level 3 psychological consultant qualification
-  (Issued by China Ministry of Labor and Social Security)
-* tutor for children, teenagers, and children with ADHD, Guangzhou (China)
-   * One-to-one customized after-school tutoring in Chinese, Math, English, or (and) Physic for more than 20 children or teenagers; 
-   * Helping attention training and Cognitive Behavioral Therapy for children with ADHD in group therapy.  
+Python (advanced): MEG/EEG preprocessing, source analysis, machine learning decoding
+PsychoPy (advanced): Experimental design and stimulus presentation
+MATLAB (intermediate): Behavioral and EEG analysis
+
+-MEG (Elekta Neuromag TRIUX): 2 years of hands-on experience as an experimenter; instructed and prepared 50+ human participants.
+-EEG (Brain Products / ANT): 2 years of experience; designed and conducted 3 EEG experiments; instructed and prepared 100+ participants.
+-fMRI (Siemens scanners): Contributed to 10+ experiments, completing 80+ scanning sessions and 400+ MRI sequences.
+
+MNE-Python (advanced): Preprocessing → source localization → statistics → decoding
+BrainVision Analyzer (advanced)
+EEGLAB & Letswave (intermediate)
+SPM12 (basic): fMRI preprocessing and analysis
+
+Experimental design, cognitive tasks setup, behavioral data acquisition
+
 
 Conferences
 ======
-* attended The 2019 annual conference of General and Experimental Psychology Committee of Chinese Psychological Society;
-* attended The sixth professional committee on emotional and health psychology; 
+-Lin, X., et al. Neural mechanisms of internal attention.
+International Conference of Cognitive Neuroscience, 2025 (poster).
+-Lin, X., et al. Flexibility of internal attention.
+MEGNORD, 2024–2025 (poster).
+
 
 Honors and awards
 ======
-* 2019 state stipend at Liaoning Normal University
-* 2020 state stipend at Liaoning Normal University
-* 2020 third-class scholarship at Liaoning Normal University
-* 2021 state stipend at Liaoning Normal University
-* 2022-2026 awarded by China Scholarship Council (CSC)
-* graduation thesis: The index of Contralateral Delayed Activity(CDA) in the Multiple Object Tracking (MOT) Task  was awarded as the outstanding Master thesis of Liaoning Province in 2022
+-Ellen and Artturi Nyyssönen Foundation, 08.2026-10.2026
+-China Scholarship Council (CSC) Doctoral Fellowship, 2022–2026
+(€64,800; competitive national scholarship)
+-Travel Grant, International Conference of Cognitive Neuroscience, 2025
+-Travel Grant, Nordic MEG Winter School, 2023
+-Outstanding Master’s Thesis Award, Liaoning Normal University, 2022
 
-[Thanks for reading! Download CV here](http://XiaoshuLinx.github.io/files/CV-Xiaoshu Lin 2022.pdf)
+Language
+======
+Chinese: Native (Mandarin & Cantonese)
+English: Fluent (C1, IELTS 7.0)
+Finnish: Beginner (MY Finnish, XSUX1001, grade 4)
+
 
