@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Research interests
 ======
 My research focuses on the neural mechanisms supporting internal attention and working memory. I am particularly interested in:
@@ -54,17 +55,6 @@ Research experience
 -Developed experimental paradigms using PsychoPy 3 and managed the complete experimental and data acquisition pipeline.
 -Conducted initial data preprocessing and statistical analyses in MATLAB.
 
-  
-Skills
-======
-* Programming: Psychopy; MATLAB
-* Data analysis: Microsoft Office; SPSS; JASP
-* EEG
-  * aqusition:BP;ANT
-  * data analysis: Brain Vision Analyzer;EEGLAB;Letswave 
-* fMRI 
-  * scan: Daily quality control scanning, the configuration of sequences, guiding subjects, experiment scanning (scanned 10+ experiments, 80+ times, and 400+ sequences)
-  * analysis: SPM12
 
 Publications
 ======
