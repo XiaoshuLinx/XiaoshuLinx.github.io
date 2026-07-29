@@ -117,7 +117,9 @@ Honors and awards
 Language
 ======
 Chinese: Native (Mandarin & Cantonese)
+
 English: Fluent (C1, IELTS 7.0)
+
 Finnish: Beginner (MY Finnish, XSUX1001, grade 4)
 
 
