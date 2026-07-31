@@ -86,7 +86,6 @@ Honors and awards
 -Ellen and Artturi Nyyssönen Foundation, 08.2026-10.2026
 
 -China Scholarship Council (CSC) Doctoral Fellowship, 2022–2026
-(€64,800; competitive national scholarship)
 
 -Travel Grant, International Conference of Cognitive Neuroscience, 2025
 
