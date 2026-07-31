@@ -35,16 +35,16 @@ Research experience
 * Sep 2020-Dec 2021: Visual Working Memory in Multiple Object Tracking (MOT)
   * Aim： Investigated whether contralateral delay activity (CDA)—a neural marker of visual working memory—emerges during multiple object tracking. Demonstrated that CDA is present when tracking relies on working memory representations, but absent when tracking is supported primarily by attentional mechanisms.
   * Contributions:
-    * -Designed and implemented behavioral and EEG experiments using PsychoPy3.
-    * -Collected and analyzed EEG (Brain Products) and behavioral data using Brain Vision Analyzer, EEGLAB. 
-    * -Contributed to manuscript preparation and scientific writing.
+    * Designed and implemented behavioral and EEG experiments using PsychoPy3.
+    * Collected and analyzed EEG (Brain Products) and behavioral data using Brain Vision Analyzer, EEGLAB. 
+    * Contributed to manuscript preparation and scientific writing.
 
 
 * Nov 2019-Sep 2020: Behavioral Oscillations in working memory 
   * Aim： Examined whether behavioral performance in working memory exhibits rhythmic fluctuations and identified their dominant oscillatory frequencies.
   * Contributions:
-    * -Developed experimental paradigms using PsychoPy 3 and managed the complete experimental and data acquisition pipeline.
-    * -Conducted initial data preprocessing and statistical analyses in MATLAB.
+    * Developed experimental paradigms using PsychoPy 3 and managed the complete experimental and data acquisition pipeline.
+    * Conducted initial data preprocessing and statistical analyses in MATLAB.
 
 
 Publications
