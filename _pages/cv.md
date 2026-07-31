@@ -10,17 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-Research interests
-======
-My research focuses on the neural mechanisms supporting internal attention and working memory. I am particularly interested in:
-
--Representational dynamics of feature- and object-based attention
-
--Oscillatory and network-level mechanisms underlying internal attention
-
--MEG source imaging and multivariate modeling of cognitive representations
-
-
 Research experience
 ======
 * Sep 2022-to date: Neural Mechanisms of Internal Attention in the Human Brain
