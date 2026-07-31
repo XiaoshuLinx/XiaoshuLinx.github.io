@@ -8,25 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Academia
-======
-- Doctoral study（Sep 2022 – to date) 
-  Major in Cognitive Neuroscience, Department of Psychology, [University of Jyvaskyla, Jyvaskyla (Finland)](https://www.jyu.fi/en/).      
-- Master Degree（Sep 2019 –June 2022) 
-  Center of Brain and Cognitive Neuroscience, [Liaoning Normal University, Dalian (China)] (https://www.lnnu.edu.cn/). 
-- Bachelor Degree（Sep 2019 –June 2022) 
-  Majorin Applied Psychology, Health Management, [Guangzhou Medical University, Guangzhou (China)] (https://www.gzhmu.edu.cn/102). 
-  
+Hi, I'm Xiaoshu Lin,
+I am a PhD candidate in Cognitive Neuroscience at the University of Jyväskylä. My research explores how the human brain flexibly prioritizes information to support goal-directed behavior. Using magnetoencephalography (MEG), multivariate decoding, and computational approaches, I examine the neural dynamics of internal attention and the temporal evolution of task representations.
+
+More broadly, I am interested in understanding how distributed brain networks support flexible cognition. My long-term goal is to bridge cognitive neuroscience and computational approaches to uncover the neural principles of intelligent behavior.
+
+I welcome opportunities for collaboration and postdoctoral research.
+
 
 Research Interests
-======
--  Retro-cue 
--  Contralateral delay activity(CDA)
--  Visual working memory 
--  EEG/MEG
+=====
+**Flexible Internal Attention**
+Understanding how attention selectively prioritizes internal representations in working memory.
+
+**Neural Dynamics of Cognitive Control**
+Investigating how task representations emerge and evolve across time and brain networks.
+
+**Methods**
+MEG/EEG • MVPA • Source Localization • Computational Modeling
 
 
-Honours and awards
-======
-- 4 years scholarship awarded by China Scholarship Council (CSC)
-- graduation thesis: The index of Contralateral Delayed Activity(CDA) in the Multiple Object Tracking (MOT) Task  was awarded as the *school outstanding Master thesis of 2022*
+  
+
