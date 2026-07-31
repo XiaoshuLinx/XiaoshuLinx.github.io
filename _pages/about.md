@@ -19,12 +19,15 @@ I welcome opportunities for collaboration and postdoctoral research.
 Research Interests
 =====
 **Flexible Internal Attention**
+
 Understanding how attention selectively prioritizes internal representations in working memory.
 
 **Neural Dynamics of Cognitive Control**
+
 Investigating how task representations emerge and evolve across time and brain networks.
 
 **Methods**
+
 MEG/EEG • MVPA • Source Localization • Computational Modeling
 
 
