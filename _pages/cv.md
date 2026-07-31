@@ -66,7 +66,7 @@ Education
      *  Major in Applied Psychology, Health Management
      *  Thesis topic: ‘A survey of college students' belief in a just world scale (BJW)’
 
-       
+  
 skills
 ======
 Python (advanced): MEG/EEG preprocessing, source analysis, machine learning decoding
