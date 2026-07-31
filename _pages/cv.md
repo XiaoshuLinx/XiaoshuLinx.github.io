@@ -82,22 +82,16 @@ MEGNORD, 2024–2025 (poster).
 
 Honors and awards
 ======
--Ellen and Artturi Nyyssönen Foundation, 08.2026-10.2026
-
--China Scholarship Council (CSC) Doctoral Fellowship, 2022–2026
-
--Travel Grant, International Conference of Cognitive Neuroscience, 2025
-
--Travel Grant, Nordic MEG Winter School, 2023
-
--Outstanding Master’s Thesis Award, Liaoning Normal University, 2022
+* Ellen and Artturi Nyyssönen Foundation, 08.2026-10.2026
+* China Scholarship Council (CSC) Doctoral Fellowship, 2022–2026
+* Travel Grant, International Conference of Cognitive Neuroscience, 2025
+* Travel Grant, Nordic MEG Winter School, 2023
+* Outstanding Master’s Thesis Award, Liaoning Normal University, 2022
 
 Language
 ======
-Chinese: Native (Mandarin & Cantonese)
-
-English: Fluent (C1, IELTS 7.0)
-
-Finnish: Beginner (MY Finnish, XSUX1001, grade 4)
+* Chinese: Native (Mandarin & Cantonese)
+* English: Fluent (C1, IELTS 7.0)
+* Finnish: Beginner (MY Finnish, XSUX1001, grade 4)
 
 
