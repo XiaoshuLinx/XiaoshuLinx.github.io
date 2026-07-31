@@ -64,7 +64,6 @@ skills
 * MEG (Elekta Neuromag TRIUX): 2 years of hands-on experience as an experimenter; instructed and prepared 50+ human participants.
 * EEG (Brain Products / ANT): 2 years of experience; designed and conducted 3 EEG experiments; instructed and prepared 100+ participants.
 * fMRI (Siemens scanners): Contributed to 10+ experiments, completing 80+ scanning sessions and 400+ MRI sequences.
-
 * MNE-Python (advanced): Preprocessing → source localization → statistics → decoding
 * BrainVision Analyzer (advanced)
 * EEGLAB & Letswave (intermediate)
