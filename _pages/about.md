@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Hi, I'm Xiaoshu Lin,
+
 I am a PhD candidate in Cognitive Neuroscience at the University of Jyväskylä. My research explores how the human brain flexibly prioritizes information to support goal-directed behavior. Using magnetoencephalography (MEG), multivariate decoding, and computational approaches, I examine the neural dynamics of internal attention and the temporal evolution of task representations.
 
 More broadly, I am interested in understanding how distributed brain networks support flexible cognition. My long-term goal is to bridge cognitive neuroscience and computational approaches to uncover the neural principles of intelligent behavior.
