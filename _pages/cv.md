@@ -21,17 +21,6 @@ My research focuses on the neural mechanisms supporting internal attention and w
 -MEG source imaging and multivariate modeling of cognitive representations
 
 
-Education
-======
-* Ph.D University of Jyväskylä,Jyväskylä (Finland), Sep 2022 – now
-     *  Major in cognitive neuroscience, department of phycology
-* M.S. Liaoning Normal University, Dalian (China), Sep 2019 – July 2022
-     *  Major in Basic Psychology, Center of Brain and Cognitive Neuroscience
-     *  Thesis topic: ‘Contralateral delay activity (CDA) indicates storage of visual-spatial representations rather than attentional tracking in Multiple objects tracking (MOT).’
-* B.S. Guangzhou Medical University, Guangzhou (China)， Sep 2014 – Aug 2018
-     *  Major in Applied Psychology, Health Management
-     *  Thesis topic: ‘A survey of college students' belief in a just world scale (BJW)’
-
 Research experience
 ======
 * Sep 2022-to date: Neural Mechanisms of Internal Attention in the Human Brain
@@ -66,7 +55,18 @@ Publications
 
 3.	**Lin, X.**, Pultsina, K., Monto, S., Ye, C., Parviainen, T. Flexibility of Internal Attention: Divergent Spatiotemporal Profiles for Feature and Object Cueing (in press on Cerebral Cortex)
 
+Education
+======
+* Ph.D University of Jyväskylä,Jyväskylä (Finland), Sep 2022 – now
+     *  Major in cognitive neuroscience, department of phycology
+* M.S. Liaoning Normal University, Dalian (China), Sep 2019 – July 2022
+     *  Major in Basic Psychology, Center of Brain and Cognitive Neuroscience
+     *  Thesis topic: ‘Contralateral delay activity (CDA) indicates storage of visual-spatial representations rather than attentional tracking in Multiple objects tracking (MOT).’
+* B.S. Guangzhou Medical University, Guangzhou (China)， Sep 2014 – Aug 2018
+     *  Major in Applied Psychology, Health Management
+     *  Thesis topic: ‘A survey of college students' belief in a just world scale (BJW)’
 
+       
 skills
 ======
 Python (advanced): MEG/EEG preprocessing, source analysis, machine learning decoding
