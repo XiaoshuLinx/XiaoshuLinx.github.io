@@ -86,7 +86,7 @@ Honors and awards
 * China Scholarship Council (CSC) Doctoral Fellowship, 2022–2026
 * Travel Grant, International Conference of Cognitive Neuroscience, 2025
 * Travel Grant, Nordic MEG Winter School, 2023
-* Outstanding Master’s Thesis Award, Liaoning Normal University, 2022
+* Outstanding Master’s Thesis Award, Liaoning province & Liaoning Normal University, 2022
 
 Language
 ======
